@@ -80,7 +80,8 @@ module jk_ff (j, k, clk, rst, q);
 
 **Output:**
 
-![exp7](https://github.com/user-attachments/assets/9697e44c-e212-4a54-adab-6736b3e93871)
+![Screenshot (98)](https://github.com/user-attachments/assets/3536cacf-ae21-4daa-98b7-0620cf0f8d05)
+
 
 
 
